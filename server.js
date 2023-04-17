@@ -6,9 +6,9 @@
 * 
 * Name: Ashriya Tuladhar Student ID: 168693216 Date: 2022/04/13
 *
-* Cyclic Web App URL: ________________________________________________________
+* Cyclic Web App URL: https://real-erin-duckling-toga.cyclic.app/
 *
-* GitHub Repository URL: ______________________________________________________
+* GitHub Repository URL: https://github.com/t-ashriya/web322-app
 *
 ********************************************************************************/ 
 
